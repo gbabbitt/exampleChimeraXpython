@@ -15,3 +15,4 @@ TO CHANGE FILES
 open and rewrite ChimeraXvis.ctl 
 
 NOTE: make sure 'attr' in .ctl file matches 'attribute' in .dat file
+authors Rochester Inst Technol BIOL230 team under Dr. G.A. Babbitt (Harsh Srivastava, Breanna Callahan, Meghan Courtney, Cristina Guzman-Moumtzis, Cory Kornowicz)

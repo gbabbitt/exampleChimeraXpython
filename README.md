@@ -8,6 +8,7 @@ TO RUN FROM TERMINAL/CMD PROMPT
 
 might look something like this
 $ /usr/lib/ucsf-chimerax/bin/ChimeraX color_by_attr_chimerax.py
+
 NOTE: in Windows, place the contents of the repo in the bin folder for ChimeraX and open a cmd prompt and type
 'ChimeraX color_by_attr_chimerax.py'
 

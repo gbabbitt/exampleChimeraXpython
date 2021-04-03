@@ -15,5 +15,8 @@ NOTE: in Windows, place the contents of the repo in the bin folder for ChimeraX 
 TO CHANGE FILES
 open and rewrite ChimeraXvis.ctl 
 
+TO DEBUG (will print errors to terminal)
+/my/path/to/ucsf-chimerax/bin/ChimeraX -nogui color_by_attr_chimerax.py
+
 NOTE: make sure 'attr' in .ctl file matches 'attribute' in .dat file
 authors Rochester Inst Technol BIOL230 team under Dr. G.A. Babbitt (Harsh Srivastava, Breanna Callahan, Meghan Courtney, Cristina Guzman-Moumtzis, Cory Kornowicz)

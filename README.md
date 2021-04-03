@@ -1,4 +1,4 @@
-This python script example script will externally control, open, and run ChimeraX.  The green fluorescent protein file will open and be colored by attribute of solvent exposure of each amino acid.  The python script uses the settings in the control file ChimeraXvis.ctl and looks for the PDB and attribute file in the folder with the same name.
+This python example script will externally control, open, and run ChimeraX.  In this example, the green fluorescent protein file will open and be colored by attribute of solvent exposure of each amino acid.  The python script uses the settings in the control file ChimeraXvis.ctl and looks for the PDB and attribute file in the ChimeraXvis folder.  Thus, a programming pipeline can use ChimeraX as a pop-up molecular visualizer by simply copying the PDB and attribute files to the ChimeraXvis folder, rewriting the ChimeraXvis.ctl text file to the task at hand, and then system calling the color_by_attr_chimerax.py script.
 
 
 TO RUN FROM TERMINAL/CMD PROMPT

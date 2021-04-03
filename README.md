@@ -1,4 +1,4 @@
-This python script example script will externally control, open, and run ChimeraX.  The green fluorescent protein file will open and be colored by attribute of solvent exposure of each amino acid.  
+This python script example script will externally control, open, and run ChimeraX.  The green fluorescent protein file will open and be colored by attribute of solvent exposure of each amino acid.  The python script uses the settings in the control file ChimeraXvis.ctl and looks for the PDB and attribute file in the folder with the same name.
 
 
 TO RUN FROM TERMINAL/CMD PROMPT
